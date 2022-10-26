@@ -7,7 +7,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tensorflow/tfjs-node": "^0.1.17",
+    "@tensorflow/tfjs": "^0.13.5",
+    "@tensorflow/tfjs-node": "^0.1.21",
+    "@tensorflow/tfjs-node-gpu": "^3.19.0",
     "lodash": "^4.17.11",
     "mnist-data": "^1.2.6",
     "node-remote-plot": "^1.2.0",
